@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Author : Kritika Srivastava\n",
+    "# Author : Ayush Chakraborty\n",
     "\n",
     "## Task 4 : Stock Market Prediction using Numerical and Textual Analysis\n",
     "## GRIP @ The Sparks Foundation\n",
@@ -13,7 +13,7 @@
     "&nbsp;\n",
     "\n",
     "\n",
-    "## Technical Stack  : Sikit Learn, Numpy Array, Pandas, Matplotlib, Keras, NLTK, Textblob, Xgboost"
+    "##Sikit Learn, Numpy Array, Pandas, Matplotlib, Keras, NLTK, Textblob, Xgboost"
    ]
   },
   {
@@ -25,7 +25,7 @@
      "output_type": "stream",
      "name": "stderr",
      "text": [
-      "[nltk_data] Downloading package stopwords to\n[nltk_data]     C:\\Users\\kriti\\AppData\\Roaming\\nltk_data...\n[nltk_data]   Package stopwords is already up-to-date!\n[nltk_data] Downloading package vader_lexicon to\n[nltk_data]     C:\\Users\\kriti\\AppData\\Roaming\\nltk_data...\n[nltk_data]   Package vader_lexicon is already up-to-date!\n"
+      "[nltk_data] Downloading package stopwords to\n[nltk_data]     C:\\Users\\AYUSH\\AppData\\Roaming\\nltk_data...\n[nltk_data]   Package stopwords is already up-to-date!\n[nltk_data] Downloading package vader_lexicon to\n[nltk_data]     C:\\Users\\kriti\\AppData\\Roaming\\nltk_data...\n[nltk_data]   Package vader_lexicon is already up-to-date!\n"
      ]
     }
    ],
