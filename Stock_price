@@ -1,0 +1,20 @@
+#importing required libraries
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import mean_squared_error
+from sklearn import metrics 
+from keras.models import Sequential
+from keras.layers import Dense, LSTM
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import math
+import re
+import nltk
+import re
+from nltk.corpus import stopwords
+nltk.download('stopwords')
+nltk.download('vader_lexicon')
+from textblob import TextBlob
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from sklearn.ensemble import RandomForestRegressor, AdaBoostRegressor
+import xgboost 
